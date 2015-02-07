@@ -2333,53 +2333,65 @@ thems<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>s, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>uniper, &amp;c.</p>
-                     <figure>
-                        <head>This Figure sheweth the order for <gap reason="illegible" resp="#PDCC" extent="3 letters">
-                              <desc>•••</desc>
-                           </gap>king <gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> T<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
-                              <desc>••</desc>
-                           </gap> 
-                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>n <gap reason="illegible" resp="#PDCC" extent="2 letters">
-                              <desc>••</desc>
-                           </gap>e Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>ffolds, to lay the Leaves on, for feeding t<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>e Wormes.</head>
-                     </figure>
-                     <figure>
-                        <head>This Figure sheweth how <gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>o plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> the Rods, betweene the Table<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>, for the Wormes to <gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>limbe up, and spin their silke.</head>
-                     </figure>
-                     <figure>
-                        <head>This Figure representeth the Engi<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>e, to wind off the silk from the Cods, with Furnaces and Cawlderns necessary thereto.</head>
-                     </figure>
-                     <figure>
-                        <head>This Figure pourtra<gap reason="illegible" resp="#PDCC" extent="3 letters">
-                              <desc>•••</desc>
-                           </gap> the Cods, with the Butter<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>lies come forth of them, to lay th<gap reason="illegible" resp="#PDCC" extent="3 letters">
-                              <desc>•••</desc>
-                           </gap> Egges upon black Serge, Chamlet, Tammy, or such like stuffe, as in this Treatise is shewed.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:106657:48"/>
+                        <figure>
+                           <head>This Figure sheweth the order for <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>king <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> 
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>e Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ffolds, to lay the Leaves on, for feeding t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e Wormes.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:106657:49"/>
+                        <figure>
+                           <head>This Figure sheweth how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> the Rods, betweene the Table<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, for the Wormes to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>limbe up, and spin their silke.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:106657:49"/>
+                        <figure>
+                           <head>This Figure representeth the Engi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e, to wind off the silk from the Cods, with Furnaces and Cawlderns necessary thereto.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:106657:50"/>
+                        <figure>
+                           <head>This Figure pourtra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> the Cods, with the Butter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lies come forth of them, to lay th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> Egges upon black Serge, Chamlet, Tammy, or such like stuffe, as in this Treatise is shewed.</head>
+                        </figure>
+                     </p>
                   </div>
                   <div type="part">
                      <pb n="17" facs="tcp:106657:50"/>
@@ -4502,7 +4514,10 @@ that ITALY can pretend to, or SPAIN<gap reason="illegible" resp="#PDCC" extent="
                            </item>
                         </list>
                      </p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:106657:80"/>
+                        <figure/>
+                     </p>
                   </div>
                   <div type="part">
                      <pb facs="tcp:106657:80"/>
